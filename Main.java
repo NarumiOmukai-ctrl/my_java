@@ -13,7 +13,7 @@ class Car {
 public class Main {
     public static void main(String[] args) {
         // newした瞬間にコンストラクタが動く
-        Car myCar = new Car("赤");
-        System.out.println(myCar.color); // 出力: 赤
+        Car myCar = new Car("青");
+        System.out.println(myCar.color); // 出力: 青
     }
 }

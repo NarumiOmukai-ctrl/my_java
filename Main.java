@@ -17,5 +17,3 @@ public class Main {
         System.out.println(myCar.color); // 出力: 赤
     }
 }
-//
-// コンストラクタはインスタンス化の際に初期設定を行う特別なメソッドです。
